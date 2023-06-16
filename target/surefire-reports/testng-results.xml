@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T11:16:18 IST" name="Surefire suite" finished-at="2023-06-14T11:16:33 IST" duration-ms="15457">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T11:16:18 IST" name="Surefire test" finished-at="2023-06-14T11:16:33 IST" duration-ms="15457">
+      <class name="vtiger.organisationtest.DeleteOrganisationTest">
+        <test-method is-config="true" signature="BSConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:18 IST" name="BSConfig" finished-at="2023-06-14T11:16:18 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BSConfig -->
+        <test-method is-config="true" signature="BCConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:18 IST" name="BCConfig" finished-at="2023-06-14T11:16:23 IST" duration-ms="4223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BCConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:23 IST" name="BMConfig" finished-at="2023-06-14T11:16:27 IST" duration-ms="4391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="deleteOrganisationTest()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:27 IST" name="deleteOrganisationTest" finished-at="2023-06-14T11:16:32 IST" duration-ms="5017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOrganisationTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:32 IST" name="AMConfig" finished-at="2023-06-14T11:16:33 IST" duration-ms="1172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="ACConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:33 IST" name="ACConfig" finished-at="2023-06-14T11:16:33 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ACConfig -->
+        <test-method is-config="true" signature="ASConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:34 IST" name="ASConfig" finished-at="2023-06-14T11:16:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ASConfig -->
+      </class> <!-- vtiger.organisationtest.DeleteOrganisationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

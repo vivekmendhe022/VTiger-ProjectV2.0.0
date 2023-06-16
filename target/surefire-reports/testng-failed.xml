@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="vtiger.organisationtest.DeleteOrganisationTest">
+        <methods>
+          <include name="deleteOrganisationTest"/>
+          <include name="BCConfig"/>
+          <include name="ACConfig"/>
+          <include name="BSConfig"/>
+          <include name="ASConfig"/>
+          <include name="BMConfig"/>
+          <include name="AMConfig"/>
+        </methods>
+      </class> <!-- vtiger.organisationtest.DeleteOrganisationTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
