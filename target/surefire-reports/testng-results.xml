@@ -1,41 +1,464 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Org Look Up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Organization Created Successful.]]>
+    </line>
   </reporter-output>
-  <suite started-at="2023-06-14T11:16:18 IST" name="Surefire suite" finished-at="2023-06-14T11:16:33 IST" duration-ms="15457">
+  <suite started-at="2023-06-20T12:31:02 IST" name="Surefire suite" finished-at="2023-06-20T12:35:13 IST" duration-ms="250338">
     <groups>
+      <group name="SmokeSuit">
+        <method signature="CreateOgrWithIndustryTest.createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" name="createOrganisationWithIndustryTest" class="vtiger.organisationtest.CreateOgrWithIndustryTest"/>
+      </group> <!-- SmokeSuit -->
     </groups>
-    <test started-at="2023-06-14T11:16:18 IST" name="Surefire test" finished-at="2023-06-14T11:16:33 IST" duration-ms="15457">
-      <class name="vtiger.organisationtest.DeleteOrganisationTest">
-        <test-method is-config="true" signature="BSConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:18 IST" name="BSConfig" finished-at="2023-06-14T11:16:18 IST" duration-ms="16" status="PASS">
+    <test started-at="2023-06-20T12:31:02 IST" name="Surefire test" finished-at="2023-06-20T12:35:13 IST" duration-ms="250338">
+      <class name="vtiger.organisationtest.CreateOgrWithIndustryTest">
+        <test-method is-config="true" signature="BSConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:31:02 IST" name="BSConfig" finished-at="2023-06-20T12:31:02 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BSConfig -->
-        <test-method is-config="true" signature="BCConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:18 IST" name="BCConfig" finished-at="2023-06-14T11:16:23 IST" duration-ms="4223" status="PASS">
+        <test-method is-config="true" signature="BCConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:31:03 IST" name="BCConfig" finished-at="2023-06-20T12:31:59 IST" duration-ms="56279" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BCConfig -->
-        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:23 IST" name="BMConfig" finished-at="2023-06-14T11:16:27 IST" duration-ms="4391" status="PASS">
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:32:01 IST" name="BMConfig" finished-at="2023-06-20T12:32:14 IST" duration-ms="12250" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BMConfig -->
-        <test-method signature="deleteOrganisationTest()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:27 IST" name="deleteOrganisationTest" finished-at="2023-06-14T11:16:32 IST" duration-ms="5017" status="PASS">
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:32:14 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:32:48 IST" duration-ms="34240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- deleteOrganisationTest -->
-        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:32 IST" name="AMConfig" finished-at="2023-06-14T11:16:33 IST" duration-ms="1172" status="PASS">
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:32:48 IST" name="AMConfig" finished-at="2023-06-20T12:32:51 IST" duration-ms="2846" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AMConfig -->
-        <test-method is-config="true" signature="ACConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:33 IST" name="ACConfig" finished-at="2023-06-14T11:16:33 IST" duration-ms="318" status="PASS">
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:32:51 IST" name="BMConfig" finished-at="2023-06-20T12:32:54 IST" duration-ms="3215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:32:54 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:33:08 IST" duration-ms="14335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:08 IST" name="AMConfig" finished-at="2023-06-20T12:33:10 IST" duration-ms="1995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:10 IST" name="BMConfig" finished-at="2023-06-20T12:33:13 IST" duration-ms="3001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:13 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:33:26 IST" duration-ms="13080" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vivo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:26 IST" name="AMConfig" finished-at="2023-06-20T12:33:28 IST" duration-ms="2039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:28 IST" name="BMConfig" finished-at="2023-06-20T12:33:31 IST" duration-ms="2982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:31 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:33:44 IST" duration-ms="12397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Xomia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:44 IST" name="AMConfig" finished-at="2023-06-20T12:33:45 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:45 IST" name="BMConfig" finished-at="2023-06-20T12:33:49 IST" duration-ms="3343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:33:49 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:34:01 IST" duration-ms="12593" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:01 IST" name="AMConfig" finished-at="2023-06-20T12:34:03 IST" duration-ms="2020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:03 IST" name="BMConfig" finished-at="2023-06-20T12:34:06 IST" duration-ms="2996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:06 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:34:19 IST" duration-ms="12356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RealMe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:19 IST" name="AMConfig" finished-at="2023-06-20T12:34:20 IST" duration-ms="1523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:20 IST" name="BMConfig" finished-at="2023-06-20T12:34:23 IST" duration-ms="2932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:23 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:34:36 IST" duration-ms="12539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Moto Rola]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:36 IST" name="AMConfig" finished-at="2023-06-20T12:34:37 IST" duration-ms="1689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:37 IST" name="BMConfig" finished-at="2023-06-20T12:34:40 IST" duration-ms="2856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:40 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:34:53 IST" duration-ms="13034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hawia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:53 IST" name="AMConfig" finished-at="2023-06-20T12:34:55 IST" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="BMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:55 IST" name="BMConfig" finished-at="2023-06-20T12:34:58 IST" duration-ms="3021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMConfig -->
+        <test-method signature="createOrganisationWithIndustryTest(java.lang.String,java.lang.String)[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:34:58 IST" name="createOrganisationWithIndustryTest" data-provider="getData" finished-at="2023-06-20T12:35:11 IST" duration-ms="13613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jio Phone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Org Look Up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Organization Created Successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationWithIndustryTest -->
+        <test-method is-config="true" signature="AMConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:35:11 IST" name="AMConfig" finished-at="2023-06-20T12:35:12 IST" duration-ms="1250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMConfig -->
+        <test-method is-config="true" signature="ACConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:35:12 IST" name="ACConfig" finished-at="2023-06-20T12:35:13 IST" duration-ms="341" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ACConfig -->
-        <test-method is-config="true" signature="ASConfig()[pri:0, instance:vtiger.organisationtest.DeleteOrganisationTest@4690b489]" started-at="2023-06-14T11:16:34 IST" name="ASConfig" finished-at="2023-06-14T11:16:34 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="ASConfig()[pri:0, instance:vtiger.organisationtest.CreateOgrWithIndustryTest@47d90b9e]" started-at="2023-06-20T12:35:14 IST" name="ASConfig" finished-at="2023-06-20T12:35:14 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ASConfig -->
-      </class> <!-- vtiger.organisationtest.DeleteOrganisationTest -->
+      </class> <!-- vtiger.organisationtest.CreateOgrWithIndustryTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>

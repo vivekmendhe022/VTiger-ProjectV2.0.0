@@ -14,13 +14,10 @@ public class RetryAnalyserImplementationUtility implements IRetryAnalyzer {
 	int retryCount = 5;
 
 	public boolean retry(ITestResult result) {
-
 		while (retryCount > count) {
 			count++;
 			return true;
 		}
-
 		return false;
 	}
-
 }
